@@ -1,11 +1,11 @@
 {
   "identity": {
-    "name": "Alex Carter",
-    "initials": "AC",
+    "name": "Kritika Adhikari",
+    "initials": "KA",
     "tagline": "Cybersecurity Student & Ethical Hacker",
     "degree": "BSc Cybersecurity",
     "level": "Level 5 — Year 2",
-    "university": "University of Greenwich",
+    "university": "University of Wolverhampton",
     "location": "London, UK",
     "status": "Open for Internships",
     "statusActive": true,
@@ -17,10 +17,10 @@
     "heroSub": "BSc Cybersecurity · Ethical Hacking · Network Defence"
   },
   "contact": {
-    "email": "alex@example.com",
-    "github": "github.com/alexcarter",
-    "linkedin": "linkedin.com/in/alexcarter",
-    "twitter": "@alexcarter_sec"
+    "email": "akritika392@gmail.com",
+    "github": "https://github.com/krizee17",
+    "linkedin": "https://www.linkedin.com/in/kritika-adhikari-86656032a/",
+    "twitter": "@kritika"
   },
   "skills": [
     {
