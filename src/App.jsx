@@ -90,6 +90,6 @@ function App() {
       <Footer identity={portfolio.identity} />
     </div>
   )
-}
+
 
 export default App
